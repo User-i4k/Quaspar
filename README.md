@@ -1,1 +1,1 @@
-# Quaspar_V2.0
+# Quaspar V2.0
